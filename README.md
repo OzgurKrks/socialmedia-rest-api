@@ -7,4 +7,4 @@
 - can add comments to posts and can delete.
 - can delete posts.
 - can send to users notification if you follow a user or like a post.
-- can change profile photo.
+- can change profile image.
